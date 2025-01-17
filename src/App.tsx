@@ -1,11 +1,14 @@
 import './App.scss'
+import Courses from "./components/Courses/Courses.tsx";
 
 function App() {
 
   return (
-    <>
-      <h1 className="text-pink-500 font-bold font-mono text-7xl bg-blue-500">Hello</h1>
-    </>
+    <div>
+      <div className="container">
+        <Courses/>
+      </div>
+    </div>
   )
 }
 

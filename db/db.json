@@ -1,0 +1,27 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "sphere": "Development",
+      "name": "Course by React",
+      "author": "Martin",
+      "isPaid": true,
+      "price": 350
+    },
+    {
+      "id": 2,
+      "sphere": "Development",
+      "name": "Course by NodeJS",
+      "author": "Martin",
+      "isPaid": false
+    },
+    {
+      "id": 3,
+      "sphere": "HR & Recruiting",
+      "name": "SEO Optimization",
+      "author": "Maria Kulickaja",
+      "isPaid": true,
+      "price": 1050
+    }
+  ]
+}

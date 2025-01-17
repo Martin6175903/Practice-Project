@@ -1,5 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@layer components {
+  body {
+    font-family: "Playwrite IN", serif;
+  }
+  .container {
+    @apply mx-auto max-w-screen-lg px-4;
+  }
+}
 
 /*# sourceMappingURL=index.css.map */
